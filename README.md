@@ -1,73 +1,92 @@
-# مرحبا — Saad Wins 👋
+# Hi there, I'm Saad FTN 👋  
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=<your-github-username>&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-أنا *Saad* — طالب ومهتم بالبرمجة وتشخيص السيارات. كنحب نحل المشاكل، نتعلم حاجات جديدة، ونعمل مشاريع نافعين.  
-حالياً كنقرا Diagnostic Automobile وكنطور مهاراتي فـ *HTML / CSS / JS / C# / C++* وباغي نتقن البرمجة باش نلقى فرص عمل أو نشتغل كفريلانس.
+I'm *Saad*, a tech enthusiast passionate about *Programming* and *Automotive Diagnostics*.  
+Currently, I’m learning and building my foundation in *HTML*, *CSS*, *JavaScript*, *C#*, and *C++*.  
+I enjoy solving problems, exploring new technologies, and developing myself step by step toward becoming a professional developer and technician.
 
 ---
 
-## 🚀 نبذة سريعة — Quick Snapshot
-- العمر: *21 سنة*  
-- المهنة المستهدفة: *Virtual Assistant / Junior Developer / Automotive Diagnostic*  
-- اللغات: *العربية (قوية)**، **الإنجليزية (ممتازة)**، **الفرنسية (جيدة كتابة)*  
-- مكان الإقامة: *المغرب* (مصري الأصل)  
-- هدف قصير المدى: تطوير مهارات في البرمجة (Python/C++/C#) وفتح خدمات فريلانس.  
-- هدف طويل المدى: نقل الكاراج لنقطة تسليم طرود (Drop Point) أو مشروع ذو دخل ثابت، ومتابعة دراسات في ألمانيا لاحقاً.
+## 🚀 About Me
+
+- 🧠 Always curious and eager to learn new skills.  
+- 🎯 Currently focusing on *C++ OOP*, *Data Structures*, and *Algorithms*.  
+- 🧰 Exploring practical car diagnostic systems (Ignition, Fuel, Cooling, Sensors/OBD, etc.).  
+- 👨‍💻 Interested in both *tech* and *automotive systems*.  
+- 💼 Looking for opportunities as a *Virtual Assistant*, *Junior Developer*, or *Diagnostic Technician*.  
+- 📍 Based in *Morocco*, originally from *Egypt*.  
+- 🌍 Future goal: continue my studies and gain experience in *Germany*.
 
 ---
 
-## 🛠 المهارات / Skills
-- *لغات برمجة:* HTML, CSS, JavaScript, C#, C++, (قريباً Python, OOP, DSA)  
-- *أساسيات الويب:* DOM, responsive layouts, basic JS interactions  
-- *أنظمة السيارات:* أساسيات التشخيص (Ignition, Fuel, Lubrication, Cooling, Sensors/OBD)  
-- *أدوات وبيئة:* VSCode, Git, Terminal basics  
-- *مهارات أخرى:* كتابة محتوى تحفيزي، إدارة صفحات، تجارب بلوج/متجر إلكتروني بسيط
+## 🛠 Skills
+
+- *Programming Languages:* HTML, CSS, JavaScript, C#, C++ (learning Python soon)  
+- *Web Basics:* DOM manipulation, responsive layouts, basic scripting  
+- *Automotive Systems:* Basic understanding of vehicle diagnostics  
+- *Tools & Software:* VSCode, Git, Terminal, Notion, Postman  
+- *Soft Skills:* Motivation, discipline, learning mindset, and teamwork  
 
 ---
 
-## 🧭 مسارات تعلمي الحالية
-1. إكمال OOP في C++ ثم Data Structures ثم Algorithms.  
-2. التمرّن على مشاريع صغيرة (سيرفر بسيط، صفحة إعلان، سكربتات صغيرة) لعرضها كخدمات.  
-3. تدريب عملي/ستاج في التشخيص الإلكتروني للمركبات.
+## 📚 Learning Path
+
+1. Master OOP in C++  
+2. Learn Data Structures & Algorithms  
+3. Build small useful projects (portfolio, automation scripts, etc.)  
+4. Combine *coding* with *car diagnostics* for tech-mechanical projects  
+5. Start freelancing and building experience  
 
 ---
 
-## 🔧 المشاريع — Projects (أمثلة تبديّة)
-- صفحة إعلانات بسيطة (index.html / detail.html) — مشروع قمت به كتمرين عملي.  
-- Portfolio page (قادم) — غادي نضيفه بحال ما يكون جاهز.  
-- أفكار: كتيّب PDF لثلاث لغات + QCM للبيع كمشروع رقمي.
+## 💻 Projects
+
+- *Simple Ads Website:* Built basic pages (index.html, detail.html) to practice front-end logic.  
+- *Personal Portfolio:* In progress — will showcase my learning journey and projects.  
+- *Digital Project Idea:* Multi-language PDF with business ideas & quizzes (QCM) as a digital product.
 
 ---
 
-## ❤️ اهتمامات شخصية — Personal
-- كمال الأجسام، كاليستينيكس، ورياضة خفيفة  
-- حب التعلم الذاتي (يوتيوب، مقالات تقنية)  
-- نشر فيديوهات تحفيزية ومواد تعليمية
+## 🎯 Interests
+
+- 💪 Calisthenics & Fitness  
+- ⚙️ Mechanical Systems & Electronics  
+- 💡 Reading and watching tech-related content  
+- 🧘 Motivation, self-improvement, and online learning  
 
 ---
 
-## 📫 تواصل — Contact
-- البريد: *(ضيف بريدك هنا)*  
-- GitHub: https://github.com/<your-github-username>  
-- إن شاء الله نكون متفاعل فالـ Issues وPRs — ما تترددش تسول.
+## 📫 Contact
+
+- *Email:*
+(add your email here)  
+- *GitHub:* [github.com/<your-github-username>](https://github.com/<your-github-username>)  
+- Always open to collaboration and learning from others 🤝  
 
 ---
 
-## 🔗 أدوات ولغات — Languages & Tools
+## 🧰 Languages & Tools
+
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ---
 
-## 📈 GitHub Stats (استبدل الاسم بالمستخدم ديالك)
+## 📊 GitHub Stats
 <p align="left">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=<your-github-username>&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-github-username>&layout=compact&hide_border=true" />
 </p>
 
 ---
+
+## 🌟 Final Note
+
+I'm still a beginner, but I’m learning every day with passion and consistency.  
+If you like my work or want to collaborate, feel free to reach out — let’s grow together 🚀
